@@ -5,6 +5,7 @@ This repository contains implementations of basic Machine Learning models for re
 - **Loan Repayment Prediction**: Predict whether a customer will repay a loan.
 - **Heart Disease Prediction**: Predict the likelihood of heart disease based on health data.
 - **Loan Approval Prediction**: Determine whether a loan application should be approved based on customer details.
+- **Mountains vs beaches preference**: Determine whether a person likes mountains or beaches based on given data.
 
 ---
 
