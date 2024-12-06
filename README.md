@@ -7,6 +7,7 @@ This repository contains implementations of basic Machine Learning models for re
 - **Loan Approval Prediction**: Determine whether a loan application should be approved based on customer details.
 - **Mountains vs beaches preference**: Determine whether a person likes mountains or beaches based on given data.
 - **Student Performance**: Determine performance index of a student using multiple regression.
+- **Car Price Prediction**: Predict car price using multiple linear regression. (tried using pipeline)
 
 ---
 
